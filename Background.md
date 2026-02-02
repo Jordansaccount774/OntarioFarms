@@ -1,0 +1,13 @@
+This decision is important because how Ontario distributes agricultural funds has a direct impact on the productivity, competitiveness, and longevity of Ontario's farming industry. Investing in small farm technologies might make more money for them and help smaller farmers stay more competitive in a time of growing input prices. However, focusing funding on big farms may increase economic efficiency and productivity per dollar of public spending. The stakes are the livelihood of certain farms, food supply stability, rural economic health, and the efficient use of limited public funding. The decision is tough because it represents a clear trade-off between equality and efficiency. Supporting small farms through technology advancement may help to lessen economic gaps, but these investments could have bad short-term returns . Investing in big farms might result in better immediate production and economic success, but it could speed up agricultural mergers and disadvantage smaller farmers.  
+Small and medium-sized farmers, major commercial agricultural producers, agricultural technology suppliers, rural communities, consumers, and the Ontario Ministry of Agriculture, Food, and Agribusiness are all important stakeholders. Taxpayers are also impacted since the choice influences how public funds are spent and the profits earned from that spending. Ontario's current strategy primarily provides broad-based agricultural assistance programs, such as cost-sharing subsidies and innovation funds, to farms of all sizes. While some initiatives indirectly assist bigger farms because of their increased ability to apply for and use funds, there has been little focus on technology adoption among small farms. As a result, current policies have tried to balance assistance throughout the industry rather than explicitly promoting small-farm equity or large-farm efficiency.  Agricultural Research Program funding. ontario.ca. (2025, August 8). https://www.ontario.ca/page/agricultural-research-program-funding
+
+Farming & Agri-Food in Ontario: 30 Facts - Canada Actionhttps://www.canadaaction.ca/ontario-farming-facts
+
+Why small farms are key to the future of food - and how we can support them.
+https://www.ifad.int/en/web/latest/-/blog/why-small-farms-are-key-to-the-future-of-food-and-how-we-can-support-them
+
+Datasets: 
+ regional GDP data, farm statistics, Statistics Canada,Farm Credit Canada, Agriculture and Agri-Food Canada
+
+
+
