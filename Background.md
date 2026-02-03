@@ -10,6 +10,3 @@ https://www.ifad.int/en/web/latest/-/blog/why-small-farms-are-key-to-the-future-
 
 Datasets: 
  regional GDP data, farm statistics, Statistics Canada,Farm Credit Canada, Agriculture and Agri-Food Canada
-
-
-
