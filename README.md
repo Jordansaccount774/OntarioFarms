@@ -66,7 +66,7 @@ Key exploratory takeaways from milestone outputs:
 ### Example visualization
 ![Exploratory chart from milestone work](Milestone4/image.png)
 
-> Tip: Additional images are available in `/img` and `Milestone2/img/` directories.
+
 
 ---
 
@@ -113,7 +113,7 @@ High-level synthesis:
 3. Publish **annual monitoring indicators** (farm counts by size, adoption rates, and resilience metrics).
 4. Conduct **10- and 20-year comparative cost-benefit analysis** for funding strategies.
 
-Detailed recommendation text: **[Milestone4/DecisionRecommendations](Milestone4/DecisionRecommendations)**.
+
 
 ---
 
@@ -135,4 +135,4 @@ Future work priorities:
 - Farming & Agri-Food in Ontario: 30 Facts. Canada Action. https://www.canadaaction.ca/ontario-farming-facts
 - IFAD: Why small farms are key to the future of food. https://www.ifad.int/en/web/latest/-/blog/why-small-farms-are-key-to-the-future-of-food-and-how-we-can-support-them
 
-Additional project references and supporting notes appear across milestone files in this repository.
+
